@@ -4,7 +4,7 @@ import { website, logoo, app, EMAIL, location, facebook, phone  } from "./../ass
 const Footer = () => {
     return (
       <footer className='mt-16  '>
-        <div className="  bg-i bg-cover bg-center bg-no-repeat    "> 
+        <div className="    ass    "> 
           <h2 dir="rtl" className=" mx-auto  w-5/6  md:flex font-sab text-5xl font-black py-7">تواصل معنا</h2>              
             <div dir="rtl" className=' mx-auto justify-between w-5/6 gap-16 md:flex '>
               

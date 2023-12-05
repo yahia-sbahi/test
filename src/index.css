@@ -12,4 +12,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.ass{
+  background-image: url(./assets/ASSETES/i.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
  
