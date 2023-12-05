@@ -1,0 +1,15 @@
+
+@font-face {
+     font-family: 'Janna LT';
+     src: url('vite-project/src/assets/FONTS/Janna LT Regular.ttf') format('truetype'),
+     url('vite-project/src/assets/FONTS/Janna LT Bold.ttf') format('truetype')
+  
+     
+   }
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ 
