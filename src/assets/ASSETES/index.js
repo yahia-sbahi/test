@@ -9,6 +9,7 @@ import z44 from "./z  ssc-44.jpg";
 import syria from "./محافظة_حماة_في_سوريا.jpg";
 import google from "./google-play.png";
 import i from "./i.png";
+import footer from "./footer.jpg";
 
 export {
   Asset,
@@ -19,6 +20,7 @@ export {
   nsplsh,
   vertikal,
   yzz,
+  footer,
   z42,
   z44,
   syria,

@@ -1,22 +1,22 @@
-
 @font-face {
-     font-family: 'Janna LT';
-     src: url('vite-project/src/assets/FONTS/Janna LT Regular.ttf') format('truetype'),
-     url('vite-project/src/assets/FONTS/Janna LT Bold.ttf') format('truetype')
-  
-     
-   }
-
+  font-family: "Janna LT";
+  src: url("vite-project/src/assets/FONTS/Janna LT Regular.ttf")
+      format("truetype"),
+    url("vite-project/src/assets/FONTS/Janna LT Bold.ttf") format("truetype");
+}
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
-.ass{
-  background-image: url(./assets/ASSETES/i.png);
+.ass {
+  background-image: url(./assets/ASSETES/footer.jpg);
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
 }
- 
+.hero {
+  background-image: url(./assets/ASSETES/Honeymoon-Places-in-December-in-India.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur();
+}

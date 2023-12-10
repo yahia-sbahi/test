@@ -12,7 +12,6 @@ export default {
       },
       backgroundImage: {
         hero: "url('./src/assets/ASSETES/Honeymoon-Places-in-December-in-India.jpg')",
-        i: "url('./src/assets/ASSETES/i.png')",
       },
     },
   },

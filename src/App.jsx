@@ -1,20 +1,17 @@
-import Hero from "./components/hero"
+import Hero from "./components/Hero";
 import Section2 from "./components/Section2";
-import Footer from "./components/footer";
-import Slider from "./components/slider";
+import Footer from "./components/Footer";
+import Slider from "./components/Slider";
 
 function App() {
-
-
   return (
-    <div className="bg-gray-100">
-      <Hero/>
-      <Section2/>
-      <Slider/>
-      <Footer/>
-    </div>
+    <>
+      <Hero />
+      <Section2 />
+      <Slider />
+      <Footer />
+    </>
   );
 }
 
-
-export default App
+export default App;
